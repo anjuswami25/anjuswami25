@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <!-- Social Media with Hover Animation -->
 <h2 align="center">🌐 Connect with Me</h2>
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/bhatiya-smit-bb1212282/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="linkedin.com/in/anju-swami-b9b409296"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a target="_blank" href="mailto:bhatiyasmit2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
